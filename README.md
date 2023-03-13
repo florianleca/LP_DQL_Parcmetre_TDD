@@ -1,5 +1,7 @@
 # LP_DQL_Parcmetre_TDD
 
+EQUIPE - Florian LECA & Antoine MOUCHOUX
+
 IMPORT - 
 Projet à importer comme projet Maven dans l'IDE.
 
